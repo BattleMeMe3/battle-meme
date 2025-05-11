@@ -1,3 +1,4 @@
+![Logo] https://github.com/BattleMeMe3/battle-meme/blob/main/Logo.png
 # Battle.meme
 
 Battle.meme is a browser-based 2D multiplayer sword-fighting game centered on fast-paced combat and resource collection, featuring meme-inspired visuals and social interactions.
