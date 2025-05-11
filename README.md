@@ -41,7 +41,7 @@ Battle.meme is a browser-based 2D multiplayer sword-fighting game centered on fa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/battle-meme.git
+git clone https://github.com/BattleMeMe3/battle-meme/blob/main/Logo.png
 cd battle-meme
 ```
 
