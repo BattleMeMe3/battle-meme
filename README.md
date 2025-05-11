@@ -5,6 +5,12 @@
 
 Battle.meme is a browser-based 2D multiplayer sword-fighting game centered on fast-paced combat and resource collection, featuring meme-inspired visuals and social interactions.
 
+
+Visit our official website：https://www.battlememe.fun
+Twitter：https://x.com/BattleMemePUMP
+
+
+
 ## Features
 
 - Real-time multiplayer sword combat
